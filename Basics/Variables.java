@@ -16,5 +16,7 @@ public static void main(String[] args) {
     System.out.println(_a);
     System.out.println(a$);
     System.out.println($);
+    // single line comment by "//"
+    // multi line comment by "/* */"
 }
 }
